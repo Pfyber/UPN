@@ -69,6 +69,8 @@ Kateri rezultat dobimo, če seštejemo 10 in 3.14 v Pythonu?
 
 Da ne bo vse preveč resno, poglejmo en zanimiv video o Pythonu:
 @video(https://www.youtube.com/watch?v=rfscVS0vtbw)
+YouTube: !?[The Future of Programming](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+
 
 In še en meme, da ne bo dolgčas:
 @image(https://i.imgflip.com/3si4.jpg)
